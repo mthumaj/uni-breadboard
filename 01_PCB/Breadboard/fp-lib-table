@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Breadboard")(type "KiCad")(uri "C:/_Martin/01_Projekty/uni-breadboard/01_PCB/Breadboard")(options "")(descr ""))
+)
