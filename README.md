@@ -109,18 +109,18 @@ Ports connection (PORT_A - PORT_E) to Analog/Digital Interface can be establishe
 ## Build Manual/Notes
 
 1. 3D Print [breadboard box](/01_PCB/Breadboard/BreadboardBox_1.STL)
-* No supports needed
-* 0.6mm nozzle can be used to speed up printing
+	* No supports needed
+	* 0.6mm nozzle can be used to speed up printing
 2. Insert and glue M3 hex nuts.
 3. Assembly the PCB 
-* gerber files to manufacture are available [here](/01_PCB/Breadboard/gerbers)
-* BOM is available here
-* When assembling screw terminals, make sure that wire openings are oriented inside the board (see picture), so wires can be easily inserted to the terminal, when board is already mounted on top of case.
+	* gerber files to manufacture are available [here](/01_PCB/Breadboard/gerbers)
+	* BOM is available here
+	* When assembling screw terminals, make sure that wire openings are oriented inside the board (see picture), so wires can be easily inserted to the terminal, when board is already mounted on top of case.
 4. Solder cables for banana plugs, switches and D-SUB9 connectors
-* For V_IN, V_OUT and GND connection use cable with cross section at least 1,5mm^2
+	* For V_IN, V_OUT and GND connection use cable with cross section at least 1,5mm^2
 
 5. Assemble banana plugs/switches/D-SUB9 connectors to the case
-* When mounting banana plugs, use serrated lock washer (washer with "teeth") to prevent releasing when plug and unplug connectors to the plugs.
+	* When mounting banana plugs, use serrated lock washer (washer with "teeth") to prevent releasing when plug and unplug connectors to the plugs.
 
 6. Connect wires to the respected screw terminals
 7. ...and it's done.
