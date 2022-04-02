@@ -108,7 +108,7 @@ Ports connection (PORT_A - PORT_E) to Analog/Digital Interface can be establishe
 
 ## Build Manual/Notes
 
-1. 3D Print breadboard case from [here](/01_PCB/Breadboard/BreadboardBox_1.STL)
+1. 3D Print breadboard case from [here](/02_Mechanical_Design/BreadboardBox_1.STL)
 	* No supports needed
 	* 0.6mm nozzle can be used to speed up printing
 2. Insert and glue M3 hex nuts.
