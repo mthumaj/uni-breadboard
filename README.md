@@ -119,7 +119,7 @@ Ports connection (PORT_A - PORT_E) to Analog/Digital Interface can be establishe
 4. Solder cables for banana plugs, switches and D-SUB9 connectors
 	* For V_IN, V_OUT and GND connection use cable with cross section at least 1,5mm^2
 
-5. Assemble banana plugs/switches/D-SUB9 connectors to the case
+5. Mount banana plugs/switches/D-SUB9 connectors to the case
 	* When mounting banana plugs, use serrated lock washer (washer with "teeth") to prevent releasing when plug and unplug connectors to the plugs.
 
 6. Connect wires to the respected screw terminals

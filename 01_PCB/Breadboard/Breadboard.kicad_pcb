@@ -171,7 +171,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4b4dab82-e313-4c7a-b63b-b5f6b48d648b)
     )
@@ -296,7 +296,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 51e64652-1e71-4dd7-be6f-f96020dbcaac)
     )
@@ -332,7 +332,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 54c2b029-df21-4268-9a74-8433670031c7)
     )
@@ -368,7 +368,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d9452562-ce7e-4680-9c6e-6998b86cb475)
     )
@@ -427,7 +427,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1b642110-eaa8-451d-b449-e92e71e75978)
     )
@@ -463,7 +463,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9c3dbdfa-1d03-4398-9be7-f28a12c9bf19)
     )
@@ -499,7 +499,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 77482be5-b12a-41cb-b345-89c6c297fbe1)
     )
@@ -558,7 +558,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6647797e-9035-4291-9495-e7c7119a3fd1)
     )
@@ -659,7 +659,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e9f702de-b437-4ae2-a03e-b707e9309898)
     )
@@ -695,7 +695,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8dc0cb95-6a64-4146-a98b-201faa29efcd)
     )
@@ -731,7 +731,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fae21104-6d06-49da-9a8b-b74f2e8a3574)
     )
@@ -810,7 +810,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e584287a-6232-40cf-a082-8dea5986b945)
     )
@@ -846,7 +846,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp fa837821-0cb5-4c2d-b2ac-2376f32f5c33)
     )
@@ -882,7 +882,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 24c732be-56c7-40ff-a440-789a73d66281)
     )
@@ -918,7 +918,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e31b63b1-e50c-436f-8b2d-c664bc43a016)
     )
@@ -977,7 +977,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 30f27120-8919-4f22-a0e2-49bd0c1104a0)
     )
@@ -1013,7 +1013,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 142e2caa-2b2c-4696-83a8-bdbb5b82c7f7)
     )
@@ -1049,7 +1049,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d0e144a3-6f5f-4307-ac4c-47637e9032bf)
     )
@@ -1085,7 +1085,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5900b9d3-f54e-4689-953a-e125f5f9fa71)
     )
@@ -1215,7 +1215,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f5ee5341-69c8-428a-a259-66f576fa2d08)
     )
@@ -1251,7 +1251,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 2330617f-82c2-43f9-8a7c-826ddfdbb89f)
     )
@@ -1404,7 +1404,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d5605fa7-538d-473c-8da8-4e6409672b1d)
     )
@@ -1486,7 +1486,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9f9c31ca-425c-43ab-adfe-2e1ae4fe8686)
     )
@@ -1522,7 +1522,7 @@
     (descr "Single banana socket, footprint - 6mm drill")
     (tags "banana socket")
     (attr through_hole)
-    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -6.5) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 677a1070-c11b-49a9-8186-12e0a3e880b1)
     )
